@@ -65,15 +65,15 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 17px;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
-}
-.style_1 {
-    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 24px;
-    font-weight: bold;
-    line-height: 29px;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
@@ -86,6 +86,12 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_2 {
+    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 29px;
 }
 .Title {
     color: #4c4c4c;
@@ -130,7 +136,7 @@
 .graphic_shape_layout_style_default_External_320_218 {
     position: relative;
 }
-.graphic_shape_layout_style_default_External_320_227 {
+.graphic_shape_layout_style_default_External_320_219 {
     position: relative;
 }
 .bumper {
