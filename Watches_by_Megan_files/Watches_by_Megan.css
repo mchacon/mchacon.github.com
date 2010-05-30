@@ -4,18 +4,18 @@
 .paragraph_style {
     color: #333333;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 16px;
+    font-size: 14px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 16px;
+    padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -51,6 +51,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_322_127 {
+    position: relative;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
@@ -63,13 +66,14 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
 }
-.style_External_245_95 {
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_246_154 {
     position: relative;
 }
-.style_External_245_154 {
-    position: relative;
-}
-.Body {
+.Free_Form {
     color: #7f7f7f;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 16px;
@@ -93,10 +97,10 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_245_95 {
+.Normal_External_322_127 {
     position: relative;
 }
-.Normal_External_245_154 {
+.Normal_External_246_154 {
     position: relative;
 }
 .Title {
@@ -141,6 +145,16 @@
 }
 .graphic_shape_layout_style_default_External_245_37 {
     position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_425_229 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .bumper {
     font-size: 1px;
