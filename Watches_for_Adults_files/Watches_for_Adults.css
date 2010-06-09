@@ -40,10 +40,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_2 {
     background: #b7d2d1;
     opacity: 1.00;
@@ -54,7 +50,13 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
+.style_SkipStrokeSkipFillSkipOpacity_1 {
+}
 .style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -65,8 +67,6 @@
 .style_SkipStroke_5 {
     background: transparent;
     opacity: 1.00;
-}
-.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Body {
     color: #7f7f7f;
@@ -126,13 +126,16 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
 .graphic_shape_layout_style_default_External_300_40 {
     position: relative;
 }
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
 .graphic_shape_layout_style_default_External_530_195 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_330_37 {
     position: relative;
 }
 .graphic_shape_style_default_SkipStroke {
