@@ -111,16 +111,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_6 {
     color: #333333;
     font-size: 14px;
@@ -130,12 +120,6 @@
 .style_7 {
     font-size: 14px;
     line-height: 17px;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .style_8 {
     font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
@@ -163,6 +147,52 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.paragraph_style_5 {
+    color: #666666;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 16px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_9 {
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+    font-size: 12px;
+    line-height: 14px;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Free_Form {
     color: #7f7f7f;
@@ -225,11 +255,21 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_shape_layout_style_default_External_326_253 {
+    position: relative;
+}
 .graphic_shape_layout_style_default_External_320_301 {
     position: relative;
 }
-.graphic_shape_layout_style_default_External_326_253 {
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_266_64 {
     position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 a {
     color: #4595af;

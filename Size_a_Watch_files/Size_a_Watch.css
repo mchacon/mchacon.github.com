@@ -19,10 +19,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_1 {
     color: #333333;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
@@ -31,7 +27,7 @@
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 15px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -52,7 +48,7 @@
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 15px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -65,6 +61,35 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_3 {
+    color: #333333;
+    font-family: 'HoeflerText-Italic', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 12px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
@@ -76,6 +101,31 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Body {
+    color: #7f7f7f;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .Title {
     color: #4c4c4c;
@@ -114,17 +164,27 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default_External_320_84 {
+.graphic_shape_layout_style_default_External_302_84 {
     position: relative;
 }
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_shape_layout_style_default_External_320_274 {
+.graphic_shape_layout_style_default_External_320_210 {
     position: relative;
 }
 .graphic_shape_layout_style_default_External_320_37 {
     position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_78_64 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .bumper {
     font-size: 1px;
